@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "oauth_learner",
+    "slug": "oauth_learner",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "oauth_learner"
+}
