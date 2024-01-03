@@ -6,6 +6,10 @@ import masterStyles from "../../styles/masterStyles";
 import Router from "./Router";
 import { navigationRef } from "../../services/NavigationServices";
 
+if (__DEV__) {
+  import("../../utils/ReactotronConfig").then(() => console.log("Reactotron Configured"));
+}
+
 const App = () => {
   return (
     <NavigationContainer ref={navigationRef}>
