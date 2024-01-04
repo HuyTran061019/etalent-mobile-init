@@ -1,7 +1,7 @@
 import { View, Text } from "react-native";
 import React from "react";
 import { createNativeStackNavigator } from "@react-navigation/native-stack";
-import { HomeName, LoginName } from "../../components/ScreenNames";
+import { HomeName, LoginName } from "../../constants/ScreenNames";
 import HomePage from "../Home";
 import LoginPage from "../Login";
 

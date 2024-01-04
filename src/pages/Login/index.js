@@ -1,7 +1,7 @@
 import { View, Text, Pressable, StyleSheet } from "react-native";
 import React from "react";
 import { navigationNavigate } from "../../services/NavigationServices";
-import { HomeName } from "../../components/ScreenNames";
+import { HomeName } from "../../constants/ScreenNames";
 import masterStyles from "../../styles/masterStyles";
 import { SafeAreaView } from "react-native-safe-area-context";
 
