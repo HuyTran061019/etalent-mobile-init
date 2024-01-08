@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "oauth_learner",
-    "slug": "oauth_learner",
+    "name": "etalent-mobile-init",
+    "slug": "etalent-mobile-init",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
     ]
   },
-  "name": "oauth_learner"
+  "name": "etalent-mobile-init"
 }
